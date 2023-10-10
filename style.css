@@ -1,0 +1,419 @@
+html {
+    height: 100;
+    width: 100;
+}
+#prim {
+    background-image: url(bimg.jpg);
+    background-repeat:repeat ;
+    background-size: cover;
+    text-transform: capitalize;
+    
+}
+
+.logsign {
+    font-size: xx-large;
+    position: relative;
+    left: 16cm;
+    background-color: red;
+    color: white;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 10px;
+}
+
+#welcomehead {
+    position: relative;
+    left: 0.2cm;
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 0, 0);
+    font-size: 56px;
+    font-family: monospace;
+    font-weight: bold;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: violet;
+}
+#tastebuds {
+    position: relative;
+    left: 12cm;
+    height: 2.5cm;
+    display: inline;
+    background-color: yellow;
+    font-size: xx-large;
+    font-family: cursive;
+    text-align: center;
+    text-decoration:dotted;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 10px;
+
+}
+
+#click {
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+}
+
+#tasty {
+    position: relative;
+    left: 17cm;
+    background-size:contain ;
+    background-repeat: no-repeat;
+}
+.intro {
+    position: relative;
+    left: 16.5cm;
+    color: rgb(255, 0, 0);
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family:monospace ;
+    background-color: white;
+    
+}
+
+
+.top {
+
+    position: relative;
+    left: 10cm;
+    margin: 10px;
+    background-color: rgb(255, 0, 0);
+    color: white;
+    border-style: solid;
+    border-width: 5px;
+    font-size: xx-large;
+    border-radius: 10px;
+}
+
+#sortby {
+    position: relative;
+    left: 10cm;
+    color: rgb(0, 0, 0);
+    border-width: 5px;
+    font-size: xx-large;
+    border-radius: 10px;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+#logprim {
+    position: relative;
+    left: 2.5cm;
+
+}
+
+#sigprim {
+    position: relative;
+    left: 5cm;
+
+}
+
+#catprim {
+
+    position: relative;
+    left: 7.5cm;
+
+}
+
+#zoom {
+    color: purple;
+    position: relative;
+    left: 30cm;
+}
+
+body {
+    background-color:pink;
+}
+
+
+
+
+#logo {
+    position: sticky;
+    left: 18cm;
+    border-style: solid;
+    border-width: 6px;
+    border-radius: 10px;
+}
+
+#video {
+    position: sticky;
+    left:12cm;
+}
+
+#courtesy {
+    position: sticky;
+    left: 20cm;
+    color: rebeccapurple;
+    font-size: larger;
+    font-weight: bold;
+    font-family: monospace;
+    display: inline;
+}
+
+#forumheading {
+    color: red;
+    position: relative;
+    left: 13cm;
+    text-align: center;
+    position: sticky;
+    text-shadow: 0ch ;
+    font-size :xx-large;
+    font-family: monospace;
+    font-weight: bold;
+    background-color: pink;
+
+}
+
+
+#scrumptious {
+    color :purple;
+    text-align: center;
+    font-size: xx-large;
+    
+}
+
+#pooh {
+    position: sticky;
+    left: 15cm;
+    display: inline;
+}
+
+.dropdown {
+    color: rgb(255, 255, 255);
+    background-color: salmon;
+    font-style: italic;
+    font-family: monospace;
+    font-size: large;
+}
+
+.button {
+    color:rgb(239, 4, 4);
+    background-color:blanchedalmond;
+    font-size: large;
+    font-family: fantasy;
+    font-weight: 300;
+}
+
+#categories{
+    color:tomato;
+    text-align: center;
+    font:bold;
+    font-size :xx-large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.comment {
+    background-color: rgb(255, 196, 196);
+    color: rgb(0, 0, 0);
+    font-size: large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    
+    
+}
+
+#searchfood {
+    color: rgb(255, 0, 64);
+    text-align : center;
+    font:bold ;
+    font-size :xx-large ;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+#searchfoodbox{
+    background-color: rgb(255, 255, 255);
+    font-size: large;
+    font-family: monospace;
+    color: rgb(255, 111, 0);
+    
+}
+
+#arrived {
+    color: rgba(123, 0, 164, 0.912);
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 700;
+
+}
+
+#listofdelhilink {
+    color: rgb(199, 0, 0);
+    font-size :large;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+    position: relative;
+    left: 10cm;
+
+}
+
+#do_not_want {
+    color:chocolate;
+    font-size :large;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none
+
+}
+
+#got_covered {
+    color: rgb(0, 0, 0);
+    font-size :large;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none
+
+}
+
+#emoji {
+    position: sticky;
+    left: 16cm;
+}
+
+#manual_list {
+    color: rgb(24, 138, 24);
+    font-size :large;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none
+
+
+}
+
+.list_headings {
+    color: rgb(255, 0, 72);
+    font-size :large;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none
+
+}
+
+.listvalues {
+    color: rgb(32, 80, 143);
+    font-size :large;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none
+
+}
+.menu {
+    color: rgb(223, 0, 0);
+    font-size :large;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none
+
+}
+
+
+#people {
+    color: rgb(207, 73, 7);
+    font-size :large;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none
+
+}
+
+.reviews {
+    border-color: rgb(255, 0, 0);
+    border-style: groove;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 5px;
+
+}
+
+
+.foodie {
+    color: rgb(32, 80, 143);
+    font-size :large;
+    font-weight: bold;
+    
+    text-decoration: none
+
+}
+
+#add_review {
+    height: 1.5cm;
+    width: 5cm;
+    position: relative;
+    left: 10px;
+    border-style: solid;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    color: red;
+    font-size: larger;
+    font-weight:bolder ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+#madeindelhi {
+    color: rgb(255, 0, 0);
+    font-size :large;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none
+
+} 
+
+
+#contact {
+    color: purple;
+    font-size :large;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none
+
+}
+
+
+#address {
+    color :crimson;
+    font-size :large;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+#nsut {
+    color: rgb(183, 13, 13);
+    font-size :large;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+}
+
+#feedback {
+    color: rgb(0, 0, 0);
+    font-size :large;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none ;
+    position: sticky;
+    left: 16.5cm;
+
+}
+
+
+#lovefood {
+    color: rgb(0, 0, 0);
+    font-size :large;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none
+}
+
+#copyright {
+    color: rgb(14, 0, 140);
+    margin-left: 17.5cm;
+    font-size: large;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+
